@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\bin\Debug\burgerTownAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\bin\Debug\burgerTownAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\bin\Debug\burgerTownAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\bin\Debug\burgerTownAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\obj\Debug\burgerTownAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\obj\Debug\burgerTownAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\obj\Debug\burgerTownAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\obj\Debug\burgerTownAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\obj\Debug\burgerTownAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\burgerTownAyden\burgerTownAyden\obj\Debug\burgerTownAyden.pdb
